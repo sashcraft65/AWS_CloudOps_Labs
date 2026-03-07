@@ -12,6 +12,7 @@ All labs use AWS Free Tier resources.
 | 01 | [CloudWatch Alarm + SNS Notification](./Lab01-CloudWatch-Alarm/) | Domain 1 – Monitoring | ✅ Complete |
 | 02 | [Security Alerts – CloudTrail + CloudWatch](./Lab02-Security-Alerts/) | Domain 4 – Security | ✅ Complete |
 | 03 | [IAM Configuration + Security Hardening](./Lab03-IAM-Configuration/) | Domain 4 – Security | ✅ Complete |
+| 04 | [CloudWatch Agent + Logs Insights](./Lab04-CloudWatch-Agent/) | Domain 1 – Monitoring | ✅ Complete |
 
 ## Certification Target
 - **Exam:** AWS Certified CloudOps Engineer – Associate (SOA-C03)
